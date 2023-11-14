@@ -29,7 +29,8 @@ def circulate():
 ```
 
 ## Output:
-![otuput](/values.png)
+![values](https://github.com/KSTamilarasan17/Circulate-the-values-of-N-variables/assets/138849236/5d2d9c42-2bb7-4391-b402-c4853ecdf8cb)
+
 
 ## Result:
 Thus the circulate the values of N variables is successfully executed
